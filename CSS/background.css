@@ -1,0 +1,34 @@
+.color-example {
+    color:aliceblue;
+    background-color: black;
+}
+
+.background-example {
+    background-color: lightseagreen;
+}
+
+.background-position-example {
+    background-image: url("https://cutewallpaper.org/21/photo-background-images/Tv-Series-Colorful-Neon-Glow-Stock-Footage-Video-100-Royalty-free-1027713866-Shutterstock.jpg");
+    background-position: center,top;
+    background-repeat: no-repeat;
+    background-size:auto; 
+}
+
+.opacity-example{
+    background-color: rgba(255,0,0,0.6);
+}
+
+.image-example{
+    display: block;
+    margin-top: 50px;
+    margin-left: 100px;
+
+}
+
+.image-sizing-example{
+    width: 200px;
+    height: 300px;
+    margin-top: 20px;
+    margin-left: 150px;
+}
+
