@@ -83,7 +83,7 @@ cursor: pointer;
 
 /*Earlier rule */ 
 .cascade {
-    color:red; !important;
+    color:red !important;
 }
 
 /* Later rule */

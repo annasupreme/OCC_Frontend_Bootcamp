@@ -15,5 +15,17 @@
 }
 
 .line-height {
-    font-family: 'Times New Roman', Times, serif;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: 100;
 }
+
+.letter-spacing {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    letter-spacing: 5px;
+}
+
+.center-align line-through {
+    text-align: center;
+    text-decoration: line-through;
+}
+
